@@ -1,0 +1,5 @@
+C:\Users\Анюта\Desktop\C#\Задача 6\obj\Debug\net6.0\Задача 6.csproj.AssemblyReference.cache
+C:\Users\Анюта\Desktop\C#\Задача 6\obj\Debug\net6.0\Задача 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анюта\Desktop\C#\Задача 6\obj\Debug\net6.0\Задача 6.AssemblyInfoInputs.cache
+C:\Users\Анюта\Desktop\C#\Задача 6\obj\Debug\net6.0\Задача 6.AssemblyInfo.cs
+C:\Users\Анюта\Desktop\C#\Задача 6\obj\Debug\net6.0\Задача 6.csproj.CoreCompileInputs.cache

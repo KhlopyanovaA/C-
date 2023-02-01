@@ -3,12 +3,17 @@ Console.WriteLine("введите число a");
 int a = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("введите число b");
 int b = Convert.ToInt32(Console.ReadLine());
+int max, min;
 
-if (a < b)
+if (a > b)
 {
-    Console.WriteLine($"max {b}");
+    max = a;
+    min = b;
 }
 else
 {
-    Console.WriteLine($"min{a}");
+    max = b;
+    min = a;
 }
+
+Console.WriteLine($"max = {max} > min = {min}");
